@@ -1,0 +1,6 @@
+api: [3.18.1, 3.19.1]
+name: Testes
+version: 1.0.0
+main: plugin\Main
+author: sXGustavOXs
+description: Um plugin para testes.
